@@ -1,2 +1,7 @@
-# Base-de-datos
-Este es el repositorio de base de datos del curso 2025/2026, aquí subiré todas las actividades del curso.
+## Base de datos
+
+Estos son las unidades del curso, con sus correspondientes actividades: 
+
+- **Actividades Unidad 1** --> [Introducción a las BBDD](Ud1_Introduccion_a_las_BBDD)
+
+- **Actividades Unidad 2** --> [Modelo Entidad/Interrelación](Ud2_Modelo_Entidad_Interrelacion)
