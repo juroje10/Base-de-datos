@@ -1,11 +1,7 @@
-## Unidad 1: Introducción a las BBDD
+## Base de datos
 
-Actividades de la unidad número 1:
+Estos son las unidades del curso, con sus correspondientes actividades: 
 
-Actividad número 1 --> [Ejercicios de la unidad](Actividad_1_Ejercicios_de_unidad/Ejercicios_unidad.md)
+- **Actividades Unidad 1** --> [Introducción a las BBDD](Ud1_Introduccion_a_las_BBDD)
 
-Actividad número 2 --> [Análisis de un sistema de información](Actividad_2_Análisis_Sistema_Información/Analisis_sistema_informacion.md)
-
-Actividad número 3 --> [Presentación de la Unidad 1](Actividad_3_Presentación_y_debate)
-
-Práctica Unidad 1 --> [Instalación y uso de un SGBDR ligero](Practica_ejemplo_SGBDR/ejemplo_SGBDR.md)
+- **Actividades Unidad 2** --> [Modelo Entidad/Interrelación](Ud2_Modelo_Entidad_Interrelacion)
